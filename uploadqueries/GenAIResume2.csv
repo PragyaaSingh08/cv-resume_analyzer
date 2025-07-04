@@ -1,0 +1,19 @@
+Questions,CAP,Assessment Area,weight
+Does the candidate have atleast 1 year of experience in Python?,,,3
+Has the candidate used langchain or llamaindex frameworks to develop GEN AIapplications?,,,3
+Does the candidate have exposure to either Azure or AWS or GCP platforms?,,,3
+Has the candidate attained any GCP or AWS or Azure generaive ai or machine learning certifications?,,,2
+"Is the candidate experienced in clustering & machine learning algorithms like random forest, linear regression, xgboost, decison trees, extratreetregressor, logistic regression,ARIMA, SARIMA, Prophet, K-Means?",,,4
+Does the candidate know Pyspark or Spark?,,,1
+Does the candidate have experience with finetuning large language models using PEFT LoRa Techniques ?,,,2
+"Has the candidate worked with vector databases (Chromadb/Qdrant,FAISS,HanaVectorDB)  or embeddings?",,,4
+"Does the candidate have experience with either of the Python frameworks (Django, Flask, FastAPI) and ORM tools.",,,4
+"Does the candidate possess knowledge of DevOps practices for AI, including continuous integration and deployment (CI/CD) for AI models.",,,4
+"Does the resume mention asynchronous programming (Celery, Redis).",,,2
+"Has the candidate worked with SQL/NoSQL databases (PostgreSQL, MongoDB).",,,4
+"Does candidate have experience with the project management tools, like Jira",,,1
+Does the candidate know about queuing and streaming mechanisms for asynchronous and real-time data processing.,,,1
+Has the candidate worked with Docker and Kubernetes,,,3
+"Has the candidate used responsible AI practices, including guardrails and moderation mechanisms.",,,2
+"Does the candidate have experience in Deep Learning libraries like Tensorflow, Pytorch etc.",,,3
+"Does the candidate have experience in libaries like Pandas, Numpy, Scikit-learn?",,,3
